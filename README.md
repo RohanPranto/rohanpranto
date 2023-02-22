@@ -8,7 +8,7 @@
 
 <div align="center">
     ⏩ I'm currently learning **React,NodeJS,MongoDB** <br> <br>
-    ⏩ <a align="center" href="https://www.rohanbiswas.me">Find me Here! Rohanbiswas.me!</a>
+    ⏩ <a align="center" href="https://rohanbiswas.me/">Find me Here! Rohanbiswas.me!</a>
 </div>
 
 <h3 align="center">Connect with me:</h3>
