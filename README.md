@@ -1,7 +1,10 @@
-<h1 align="center">Hi There! I'm Rohan!</h1>
-<h3 align="center">VSCode is the Bun to my Burger!</h3>
+<h1 align="center">Hi There! I'm Rohan!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
+<h3 align="center">VSCode is the Bun to my Burger!
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+passionate+developer;Frontend+Web+Developer;Photographer;Guitarist;Student)](https://git.io/typing-svg)
+</h3>
 
-
+<img align="center" src="free.png" />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=RohanPranto" alt="RohanPranto" /></a> </p>
 
