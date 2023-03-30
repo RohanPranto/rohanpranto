@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=50&color=0157B4&width=435&lines=Part+time+Web+Developer%2C;Full+time+Student+%3A)" alt="Typing SVG" /></a>
 
 
-<img align="center" src="free.png" />
+<img align="center" src="free.png" /> <br> <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=RohanPranto" alt="RohanPranto" /></a> </p>
 
