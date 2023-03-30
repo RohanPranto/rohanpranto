@@ -1,8 +1,9 @@
 <h1 align="center">Hi There! I'm Rohan!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
-<h3 align="center">VSCode is the Bun to my Burger!
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+a+passionate+developer;Frontend+Web+Developer;Photographer;Guitarist;Student)](https://git.io/typing-svg)
-</h3>
+<h3 align="center">VSCode is the Bun to my Burger!</h3>
+<br>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=50&color=0157B4&width=435&lines=Part+time+Web+Developer%2C;Full+time+Student+%3A))](https://git.io/typing-svg)
+
 
 <img align="center" src="free.png" />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
