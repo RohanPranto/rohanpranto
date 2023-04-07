@@ -19,15 +19,15 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a style="padding-right: 10px;" href="https://www.linkedin.com/in/rohan-biswas-178848239/" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="rohan-biswas-178848239" height="30" width="30" /></a>
-    <a href="https://www.instagram.com/rohan.css"><img align="center" height="30" width="30"
-            src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt=""></a>
-    <a href="https://www.facebook.com/r.biswasz/"><img align="center" height="30" width="50"
-            src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt=""></a>
-</p>
+        <a style="padding-right: 10px;margin-right: 10px;" href="https://www.linkedin.com/in/rohan-biswas-178848239/" target="blank"><img
+                align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                alt="rohan-biswas-178848239" height="30" width="30" /></a>
+        <a href="https://www.instagram.com/rohan.css"><img align="center" height="30" width="30"
+                src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt=""></a>
+        <a href="https://www.facebook.com/r.biswasz/"><img align="center" height="30" 
+                src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt=""></a>
+    </p>
 <hr>
 <h2 align="center">🛠️ My favorite tools</h2>
 <p align="center"> <strong> 👨‍💻 Programming and markup languages </strong> </p>
