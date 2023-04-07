@@ -26,7 +26,7 @@
         <a href="https://www.instagram.com/rohan.css"><img align="center" height="30" width="30"
                 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt=""></a>
         <a href="https://www.facebook.com/r.biswasz/"><img align="center" height="30" 
-                src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt=""></a>
+                src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_(square).png" alt=""></a>
     </p>
 <hr>
 <h2 align="center">🛠️ My favorite tools</h2>
