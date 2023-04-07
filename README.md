@@ -1,14 +1,13 @@
+
+<img align="center" src="Hustle and Haasil.jpg" /> <br>
 <h1 align="center">Hi There! I'm Rohan!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 <h3 align="center">VSCode is my obsession.</h3>
 <br>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=50&color=0157B4&width=435&lines=Part+time+Web+Developer%2C;Full+time+Student+%3A)" alt="Typing SVG" /></a>
 
+<p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=500&color=0157B4&width=285&lines=Part+time+Web+Developer%2C;Full+time+Student+%3A)" alt="Typing SVG" /></a> </p>
 
-<img align="center" src="Hustle and Haasil.jpg" /> <br> <br>
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=RohanPranto" alt="RohanPranto" /></a> </p>
 
