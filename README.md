@@ -61,7 +61,7 @@
 <!--     <a href="#"><img alt="Symfony" src="https://custom-icon-badges.herokuapp.com/badge/Nextcord-0d1620.svg?logo=nextcord"></a> -->
 <!--     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a> -->
-<!--     <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a> -->
+    <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-20232a.svg?logo=openai&logoColor=white"></a>
      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
      <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=next.js&logoColor=white"></a>
 <!--     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a> -->
