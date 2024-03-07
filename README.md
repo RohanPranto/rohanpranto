@@ -13,7 +13,7 @@
 
           
 <div align="center">
-    ⏩ I'm currently learning **React,NodeJS,MongoDB** <br> <br>
+    ⏩ I'm currently learning **MongoDB** <br> <br>
     ⏩ <a align="center" href="https://www.rohanbiswas.xyz" target="_blank">Find me Here! Rohanbiswas.xyz!</a>
 </div>
 
@@ -64,6 +64,10 @@
     <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-20232a.svg?logo=openai&logoColor=white"></a>
      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
      <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=next.js&logoColor=white"></a>
+            <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AGemini">
+  <img alt="Gemini" src="https://custom-icon-badges.herokuapp.com/badge/Gemini-03C03C.svg?logo=gemini&logoColor=white">
+</a>
+
 <!--     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a> -->
 <!--     <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a> -->
 <!--     <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a> -->
@@ -74,7 +78,10 @@
 
 <p align="center">
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+    <a style="text-decoration:none" href="https://github.com/search?q=user%3ADenverCoder1+language%3AFirebase"><img alt="Firebase" src="https://custom-icon-badges.herokuapp.com/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=white"></a>
+<a style="text-decoration:none" href="https://github.com/search?q=user%3ADenverCoder1+language%3Amongodb"><img alt="MongoDB" src="https://custom-icon-badges.herokuapp.com/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white"></a>
+
+
   <!--  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> -->
   <!--  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a> -->
 <!--     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a> -->
