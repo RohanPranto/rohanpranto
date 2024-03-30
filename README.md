@@ -5,7 +5,7 @@
 <h3 align="center">VSCode is my obsession.</h3>
 <br>
 
-<p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=500&color=0157B4&width=285&lines=Part+time+Web+Developer%2C;Full+time+Student+%3A)" alt="Typing SVG" /></a> </p>
+<p align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=500&color=0157B4&width=285&lines=Part+time+Developer%2C;Full+time+Dreamer+%3A)" alt="Typing SVG" /></a> </p>
 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
