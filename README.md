@@ -13,8 +13,7 @@
 
           
 <div align="center">
-    ⏩ I'm currently learning **MongoDB** <br> <br>
-    ⏩ <a align="center" href="https://www.rohanbiswas.xyz" target="_blank">Find me Here! Rohanbiswas.xyz!</a>
+    ⏩ <a align="center" href="https://rohanpranto.github.io/" target="_blank">Find me Here! Rohanpranto.github.io !</a>
 </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -23,7 +22,7 @@
                 align="center"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"
                 alt="rohan-biswas-178848239" height="30" width="30" /></a>
-        <a href="https://www.instagram.com/rohan.css"><img align="center" height="30" width="30"
+        <a href="https://www.instagram.com/rohanpranto"><img align="center" height="30" width="30"
                 src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square1-1024.png" alt=""></a>
         <a href="https://www.facebook.com/r.biswasz/"><img align="center" height="30" 
                 src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_(square).png" alt=""></a>
