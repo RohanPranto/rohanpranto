@@ -60,11 +60,9 @@
 <!--     <a href="#"><img alt="Symfony" src="https://custom-icon-badges.herokuapp.com/badge/Nextcord-0d1620.svg?logo=nextcord"></a> -->
 <!--     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a> -->
-    <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-20232a.svg?logo=openai&logoColor=white"></a>
      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
      <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.js-20232a.svg?logo=next.js&logoColor=white"></a>
-            <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AGemini">
-  <img alt="Gemini" src="https://custom-icon-badges.herokuapp.com/badge/Gemini-03C03C.svg?logo=gemini&logoColor=white">
+
 </a>
 
 <!--     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a> -->
@@ -94,8 +92,9 @@
 <p align="center"> <strong> 💻 Software and tools </strong> </p>
 
 <p align="center">
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+            <a href="#"><img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4.svg?logo=google&logoColor=white"></a>
+            <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-20232a.svg?logo=openai&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
