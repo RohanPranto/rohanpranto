@@ -22,7 +22,7 @@
                 align="center"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"
                 alt="rohan-biswas-178848239" height="30" width="30" /></a>
-        <a href="https://www.instagram.com/rohanpranto"><img align="center" height="30" width="30"
+        <a href="https://www.instagram.com/rohan.pranto"><img align="center" height="30" width="30"
                 src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square1-1024.png" alt=""></a>
         <a href="https://www.facebook.com/r.biswasz/"><img align="center" height="30" 
                 src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_(square).png" alt=""></a>
