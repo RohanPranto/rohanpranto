@@ -13,7 +13,7 @@
 
           
 <div align="center">
-    ⏩ <a align="center" href="https://rohanpranto.github.io/" target="_blank">Find me Here! Rohanpranto.github.io !</a>
+    ⏩ <a align="center" href="https://rohanpranto.github.io/" target="_blank">Click here to check Portfolio!</a>
 </div>
 
 <h3 align="center">Connect with me:</h3>
