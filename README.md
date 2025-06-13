@@ -116,7 +116,6 @@
 
 
 <div align="center">
-        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohanpranto&show_icons=true&locale=en&layout=compact" alt="Rohanpranto" /></p> <br>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Rohanpranto&show_icons=true&locale=en" alt="Rohanpranto" /></p> <br>
 
