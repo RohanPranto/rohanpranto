@@ -4,7 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=35&duration=1&pause=10000&color=76ff1f&center=true&vCenter=true&width=450&lines=Heyya%2C+I'm+Rohan!" alt="Heyya, I'm Rohan!" />
 </p>
 
-<h3 align="center" style="font-family:Caveat">✨ VSCode is my obsession ✨</h3>
+<h3 align="center" style="font-family:Caveat">
+  <img src="flipstar.svg" width="24" style="vertical-align: middle;" />
+  VSCode is my obsession
+  <img src="flipstar.svg" width="24" style="vertical-align: middle;" />
+</h3>
+
 <br>
 
 <p align="center">
